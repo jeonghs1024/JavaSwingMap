@@ -11,7 +11,7 @@ public class GoogleAPI {
     public void downloadMap(String location) {
         // Download map from Google Maps
         try{
-            String imageURL = "http://maps.googleapis.com/maps/api/staticmap?center=" + URLEncoder.encode(location, "UTF-8") + "&zoom=11&size=612x612&scale=2&key=AIzaSyAjH249ujOMkgO9Jlrsd3zSos6Deev3pyQ";
+            String imageURL = "http://maps.googleapis.com/maps/api/staticmap?center=" + URLEncoder.encode(location, "UTF-8") + "&zoom=11&size=612x612&scale=2&key=YOUR_API";
             URL url = new URL(imageURL);
             InputStream is = url.openStream();
             OutputStream os = new FileOutputStream(location); 
