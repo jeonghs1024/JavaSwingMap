@@ -1,3 +1,3 @@
 # JavaSwingMap
 
-![image](https://user-images.githubusercontent.com/93170189/225525740-959a1be9-389c-4ce3-ac5e-26f88da86142.png)
+![image](https://user-images.githubusercontent.com/93170189/225525856-42fc9b93-c716-43af-a6a6-913cf66e8bd7.png)
